@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.main-window-green {
+	width: 100%;
+	background: #8ace7e;
+	padding: 1em 0;
+
+}
+
+.main-window-red {
+	width: 100%;
+	background: #ff684c;
+	padding: 1em 0;
+
+}

@@ -1,0 +1,45 @@
+
+.App {
+  text-align: center;
+}
+
+.main-window-green {
+  width: 100%;
+  background: #8ace7e;
+  padding: 1em 0;
+
+}
+
+.main-window-red {
+  width: 100%;
+  background: #ff684c;
+  padding: 1em 0;
+}
+
+input[type="text"] { 
+  padding: 0.2em;
+  max-width: 20em;
+  height: 1em;
+  font-size: 16px;
+  border: solid 2px #666;
+  border-radius: 2px;
+ }
+
+
+input[type="submit"] { 
+  height: 2em;
+  width: 7em;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0 0 0 1em;
+  border: solid 2px #666;
+  border-radius: 2px;
+  color:#666;
+}
+
+input[class="clear-chat-button"] {
+  margin-top: 1em;
+}
+.inputs-line { 
+  display: inline-flex;
+ }
